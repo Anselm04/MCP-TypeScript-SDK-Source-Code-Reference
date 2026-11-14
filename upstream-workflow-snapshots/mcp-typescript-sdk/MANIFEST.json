@@ -1,0 +1,50 @@
+{
+  "source": "https://github.com/modelcontextprotocol/typescript-sdk.git",
+  "commit": "919bb8ea88b6e10e72c2f8b6218fad4cfdc40b2c",
+  "number_of_original_workflow_files": 7,
+  "original_ci_is_disabled": true,
+  "files": [
+    {
+      "upstream_path": ".github/workflows/claude.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/claude.yml",
+      "git_blob": "5e48e2c5eade56eda229d11ea8d303a7a64fd657",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/conformance.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/conformance.yml",
+      "git_blob": "989595cbf5442d1cc43c92be14e4ccb8f2f2a8c3",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/deploy-docs.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/deploy-docs.yml",
+      "git_blob": "68ed84f8e657dfda12c1ef2f68cb2902c87a5020",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/examples.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/examples.yml",
+      "git_blob": "e00c0c289c7e647b28f2d74fbb1c2a20ea377ccb",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/main.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/main.yml",
+      "git_blob": "9aba480eae0b54e143e238ed4ff4e6e3b82f5684",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/publish.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/publish.yml",
+      "git_blob": "d8db820e1327a350d69c4bd710e91ad778bb108a",
+      "original_mode": "100644"
+    },
+    {
+      "upstream_path": ".github/workflows/release.yml",
+      "reference_path": "upstream-workflow-snapshots/mcp-typescript-sdk/.github/workflows/release.yml",
+      "git_blob": "50bacb5c02934455c9b58cfadd098ed0a9b8da25",
+      "original_mode": "100644"
+    }
+  ]
+}
