@@ -1,0 +1,26 @@
+{
+  "upstream": "https://github.com/modelcontextprotocol/typescript-sdk.git",
+  "pinned_commit": "919bb8ea88b6e10e72c2f8b6218fad4cfdc40b2c",
+  "destination_main_sha": "b2004c0447586b93d3b9f7ce216358b254ed96c1",
+  "upstream_tracked_entries": 1253,
+  "destination_tracked_entries": 1248,
+  "missing_paths": [
+    ".github/workflows/claude.yml",
+    ".github/workflows/conformance.yml",
+    ".github/workflows/deploy-docs.yml",
+    ".github/workflows/examples.yml",
+    ".github/workflows/main.yml",
+    ".github/workflows/publish.yml",
+    ".github/workflows/release.yml"
+  ],
+  "missing_path_count": 7,
+  "missing_upstream_ci_count": 7,
+  "missing_other_count": 0,
+  "mismatched_objects": [],
+  "mismatched_count": 0,
+  "extra_paths": [
+    ".github/workflows/audit-source-once.yml",
+    "TRILLIONAI_REFERENCE.md"
+  ],
+  "extra_count": 2
+}
