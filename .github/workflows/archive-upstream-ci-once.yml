@@ -1,0 +1,14 @@
+name: Preserve original upstream workflow code as inert reference
+on:
+  push:
+    paths:
+      - '.github/workflows/archive-upstream-ci-once.yml'
+permissions:
+  contents: write
+jobs:
+  archive:
+    uses: Anselm04/Macro-source-code-reference-/.github/workflows/reusable-inert-ci-archive.yml@main
+    with:
+      upstream_url: https://github.com/modelcontextprotocol/typescript-sdk.git
+      upstream_sha: 919bb8ea88b6e10e72c2f8b6218fad4cfdc40b2c
+      archive_slug: mcp-typescript-sdk
